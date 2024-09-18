@@ -3,7 +3,7 @@
   "name": "password generator",
   "description": "Generate password for JESUS CHRIST our HOLY LORD GOD ALMIGHTY KING OF KINGS AND LORD OF LORDS, by GOD's Amazing Grace for JESUS' HOLY GLORY",
   "version": "0.1",
-  "permissions": ["storage", "activeTab", "scripting"],
+  "permissions": ["activeTab", "clipboard"],
   "commands": {
     "generate-password": {
       "suggested_key": {
